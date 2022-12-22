@@ -1,2 +1,2 @@
-# letsmake_engine
-Code to go along with a series of artcles on mikemarcin.com
+# Let's Make an Engine
+Code to go along with the Let's Make an Engine series of articles on [MikeMarcin.com](https://mikemarcin.com/).
