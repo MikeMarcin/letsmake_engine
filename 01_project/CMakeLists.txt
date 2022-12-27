@@ -1,5 +1,9 @@
 cmake_minimum_required(VERSION 3.24)
 
+if( MSVC )
+	add_compile_options(/W4 /WX)
+endif()
+
 # C++ modules are a little new and wonky in the tooling
 # These are just the necessary incantations to enable
 # the latest C++ version and std library modules
